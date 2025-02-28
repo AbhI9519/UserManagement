@@ -8,7 +8,7 @@
 ## Installation
 
 Clone the repository and install dependencies:
-git clone https://github.com/your-repo/auth-api-typescript.git
+git clone https://github.com/AbhI9519/UserManagement.git
 cd authLogin
 npm install
 
